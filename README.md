@@ -18,7 +18,9 @@
 
 ## 🚀 Cybernetic Profile
 
-
+<div align="center" style="background: #0d1117; border-radius: 10px; padding: 20px; border: 1px solid #30363d; box-shadow: 0 4px 8px rgba(0,255,0,0.2);">
+  
+```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
@@ -78,3 +80,5 @@ class CyberneticEngineer:
 if __name__ == "__main__":
     me = CyberneticEngineer()
     print(f"\n⚡ {me.name} - {me.title}\n")
+    print("🚀 Specializations:", ", ".join(me.specializations))
+    print("🌐 Contact:", me.contact())
