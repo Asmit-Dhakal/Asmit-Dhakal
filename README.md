@@ -2,17 +2,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=00F718&background=000000&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello+World!+I'm+Asmit+Dhakal;Backend+Architect+%7C+ML+Engineer+%7C+AI+Researcher;Open+Source+Enthusiast+%7C+Cloud+Native+Developer" alt="Typing SVG" />
 </h1>
 
+<div align="center">
+  <img src="https://github.com/Asmit-Dhakal/Asmit-Dhakal/blob/main/images/tech-banner.gif?raw=true" width="800" height="400" alt="Advanced Tech Stack">
+</div>
+
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Playing" width="500"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F718&background=000000&center=true&vCenter=true&width=800&lines=Building+the+future+with+code+and+algorithms;Transforming+ideas+into+production-grade+solutions;Pushing+the+boundaries+of+machine+learning" alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Asmit-Dhakal/Asmit-Dhakal/main/images/techstack.gif" width="800" height="400" alt="Advanced Tech Stack">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asmit-Dhakal&theme=matrix&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
-## 🧑‍💻 Cybernetic Profile
+## 🚀 Cybernetic Profile
 
-```python
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
