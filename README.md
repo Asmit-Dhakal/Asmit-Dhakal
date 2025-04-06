@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmit-dhakal&show_icons=true&locale=en" alt="asmit-dhakal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmit-dhakal&" alt="asmit-dhakal" /></p> make it more beuitful aand add more css and icon to deal with proper views
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmit-dhakal&" alt="asmit-dhakal" /></p>
