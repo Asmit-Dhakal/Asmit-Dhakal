@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **asmitdhakal123@gmail.com**
 
-- 📄 Know about my experiences at **asmitdhakal.com.np***
+- 📄 Know about my experiences at **asmitdhakal.com.np**
 
 - ⚡ Fun fact **I am funny**
 
