@@ -15,7 +15,6 @@
 
 <img align="right" alt="Coding" width="150" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 Building **[Krishikranti](https://github.com/Asmit-Dhakal/Krishikranti)**
 - 🧠 Engineering **Scalable Backend Systems & Deep Learning**
 - 🤝 Collaborating on AI solutions with **[Omdena](https://github.com/Omdena-NIC-Nepal)**
 - 🌐 Portfolio & writing: **[asmitdhakal.com.np](https://asmitdhakal.com.np)**
