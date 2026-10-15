@@ -10,18 +10,18 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="1000px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#8b949e" font-size="10px" xml:space="preserve">
-<tspan x="15" y="30">   ;=##-;,                                             :=</tspan>
-<tspan x="15" y="42">@=    ;*+                                              :-</tspan>
-<tspan x="15" y="54">=--+-::*%*=:</tspan>
-<tspan x="15" y="66">   ;+**#=                                             :;=</tspan>
-<tspan x="15" y="78">    ;%%*;,                                          -##**</tspan>
-<tspan x="15" y="90">#++*%%*:,-#+                                       +=:</tspan>
-<tspan x="15" y="102">*%@@#=, -=*+:        ,;==*%##%%**=:                -=-,</tspan>
-<tspan x="15" y="114">  :+-:+*#=::+:     -*%@@#%@%%%%%@@@%*;             ,-#*-;</tspan>
-<tspan x="15" y="126">      =%         :**#%@@@@@@@@@%@@@%@%#-            ;:</tspan>
-<tspan x="15" y="138">      +@-       +#@%%#**#%%#*#%%%#%@@@@@*</tspan>
-<tspan x="15" y="150">       ;+:     *@%+:               ;--*#@-              ;</tspan>
-<tspan x="15" y="162">               =*:                    :*%%             ,=</tspan>
+<tspan x="15" y="30"> </tspan>
+<tspan x="15" y="42"> </tspan>
+<tspan x="15" y="54"> </tspan>
+<tspan x="15" y="66"> </tspan>
+<tspan x="15" y="78"> </tspan>
+<tspan x="15" y="90"> </tspan>
+<tspan x="15" y="102">                       ,;==*%##%%**=:</tspan>
+<tspan x="15" y="114">                    -*%@@#%@%%%%%@@@%*;</tspan>
+<tspan x="15" y="126">                 :**#%@@@@@@@@@%@@@%@%#-</tspan>
+<tspan x="15" y="138">                +#@%%#**#%%#*#%%%#%@@@@@*</tspan>
+<tspan x="15" y="150">               *@%+:               ;--*#@-</tspan>
+<tspan x="15" y="162">               =*:                    :*%%</tspan>
 <tspan x="15" y="174">               =;::                   -=*%</tspan>
 <tspan x="15" y="186">               ++;   :::::,    ,,:,   :+*%</tspan>
 <tspan x="15" y="198">               -%   ==*%@@@%**%@@@#*++  %*</tspan>
@@ -67,7 +67,7 @@ text, tspan {white-space: pre;}
 <tspan x="380" y="270"><tspan>. </tspan><tspan class="key">ML:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">PyTorch, TensorFlow, scikit-learn</tspan></tspan>
 <tspan x="380" y="290"></tspan>
 <tspan x="380" y="310"><tspan>- Contact </tspan><tspan class="cc">------------------------------------------------</tspan></tspan>
-<tspan x="380" y="330"><tspan>. </tspan><tspan class="key">Email:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">asmitdhakal123@gmail.com</tspan></tspan>
+<tspan x="380" y="330"><tspan>. </tspan><tspan class="key">Email:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">mail@asmitdhakal.com.np</tspan></tspan>
 <tspan x="380" y="350"><tspan>. </tspan><tspan class="key">LinkedIn:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">asmitdhakal</tspan></tspan>
 <tspan x="380" y="370"><tspan>. </tspan><tspan class="key">Website:</tspan><tspan class="cc"> ............................ </tspan><tspan class="value">asmitdhakal.com.np</tspan></tspan>
 <tspan x="380" y="390"></tspan>

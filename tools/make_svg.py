@@ -37,7 +37,7 @@ PROFILE = [
     ("ML", "PyTorch, TensorFlow, scikit-learn"),
     "",
     "- Contact",
-    ("Email", "asmitdhakal123@gmail.com"),
+    ("Email", "mail@asmitdhakal.com.np"),
     ("LinkedIn", "asmitdhakal"),
     ("Website", "asmitdhakal.com.np"),
     "",
